@@ -1,50 +1,67 @@
-# Welcome to your Expo app 👋
+# ⏱️ TimeControl
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+TimeControl es una aplicación móvil sencilla y ligera diseñada para la **gestión rápida de fichajes de entrada y salida de jornada laboral**, con registro histórico y soporte para observaciones personalizadas.
 
-## Get started
+![TimeControl Logo](https://github.com/waloleitor/TimeControl-APP-Android/blob/main/assets/images/icon.png)
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Características principales
 
-2. Start the app
+- ✅ **Fichaje de entrada y salida** con un solo toque.  
+- 📝 **Registro de observaciones** al finalizar la jornada.  
+- 📜 **Historial de jornadas** almacenado localmente.  
+- ⚡ **Interfaz rápida y minimalista**, sin necesidad de conexión a internet.  
+- 🔐 **Datos seguros en tu dispositivo** usando AsyncStorage.  
+- 📲 **Disponible en formato APK** para instalación directa en Android.  
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📦 Tecnologías utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [React Native](https://reactnative.dev/) – Framework principal de la app.  
+- [Expo](https://expo.dev/) – Desarrollo y construcción del proyecto.  
+- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) – Almacenamiento local de datos.  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📥 Instalación
 
-When you're ready, run:
+1. Clona el repositorio:
 
 ```bash
-npm run reset-project
+git clone https://github.com/TuUsuario/TimeControl.git
+cd TimeControl
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Instala dependencias:
 
-## Learn more
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+3. Ejecuta el proyecto en modo desarrollo:
+```bash
+npx expo start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+4. Escanea tu código QR en tu dispositivo para probar la aplicación.
 
-## Join the community
+## 📱 Descargar APK
+La versión más reciente (1.1.1) está disponible en la sección Releases de este repositorio.
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🛠️ Construcción manual (opcional)
+Si deseas generar el APK por tu cuenta:
+```bash
+eas build --platform android --profile production
+```
+
+---
+📜 Licencia
+Este proyecto se distribuye bajo la licencia MIT, lo que permite su uso libre y modificaciones bajo los términos de dicha licencia.
+
+---
+✨ Autor
+Desarrollado por Tomás Sarciat Roch
