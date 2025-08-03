@@ -53,16 +53,16 @@ La versión más reciente (1.2.1) está disponible en la sección **[Releases](h
 
 ---
 
-🛠️ Construcción manual (opcional)
+## 🛠️ Construcción manual (opcional)
 Si deseas generar el APK por tu cuenta:
 ```bash
 eas build --platform android --profile production
 ```
 
 ---
-📜 Licencia
+## 📜 Licencia
 Este proyecto se distribuye bajo la licencia MIT, lo que permite su uso libre y modificaciones bajo los términos de dicha licencia.
 
 ---
-✨ Autor
+## ✨ Autor
 Desarrollado por Tomás Sarciat Roch
