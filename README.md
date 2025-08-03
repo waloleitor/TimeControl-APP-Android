@@ -65,4 +65,5 @@ Este proyecto se distribuye bajo la licencia MIT, lo que permite su uso libre y 
 
 ---
 ## ✨ Autor
-Desarrollado por Tomás Sarciat Roch
+Desarrollado por **Tomás Sarciat Roch**  
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="20">[GitHub](https://github.com/waloleitor)
