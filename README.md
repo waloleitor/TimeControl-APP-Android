@@ -30,7 +30,7 @@ TimeControl es una aplicación móvil sencilla y ligera diseñada para la **gest
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/TuUsuario/TimeControl.git
+git clone https://github.com/waloleitor/TimeControl-APP-Android.git
 cd TimeControl
 ```
 
