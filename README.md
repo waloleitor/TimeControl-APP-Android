@@ -48,7 +48,8 @@ npx expo start
 4. Escanea tu código QR en tu dispositivo para probar la aplicación.
 
 ## 📱 Descargar APK
-La versión más reciente (1.2.1) está disponible en la sección Releases de este repositorio.
+La versión más reciente (1.2.1) está disponible en la sección **[Releases](https://github.com/waloleitor/TimeControl-APP-Android/releases)**. de este repositorio.
+
 
 ---
 
